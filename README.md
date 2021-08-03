@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 - My dream is to retire early
-- 🤔 current retirement progress: 18.3/ikoo
